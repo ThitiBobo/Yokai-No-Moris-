@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1854482469442152}
+  m_IsPrefabAsset: 1
+--- !u!1 &1854482469442152
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4238220219936836}
+  - component: {fileID: 114341986807869330}
+  m_Layer: 0
+  m_Name: Plateau3x4 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4238220219936836
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1854482469442152}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114341986807869330
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1854482469442152}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51ecadf31468fba4aa4a07402204bb78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _tile: {fileID: 1684637033959306, guid: 65b330a5ca5b1c047a7e7d2d3505062c, type: 2}
+  _kodama: {fileID: 1810920779554120, guid: 62343928e0ac3954a9c0dce5368f8340, type: 2}
+  _koropokkuru: {fileID: 1208565298411286, guid: cbe3ec17ecde8b345b6860b7b1b99ff9,
+    type: 2}
+  _kitsune: {fileID: 1138182701641396, guid: c800ca61f872d624496f9956b2f3bb2c, type: 2}
+  _tanuki: {fileID: 1317540925043886, guid: 3e6d91e3d7ef41c44b72a1fed07f93d7, type: 2}
+  _grassTileSprite: {fileID: 21300000, guid: 980cd0e63b1741041b423ed9087e132d, type: 3}
+  _ligthGrassTileSprite: {fileID: 21300002, guid: 980cd0e63b1741041b423ed9087e132d,
+    type: 3}
+  _rockTileSprite: {fileID: 21300004, guid: 980cd0e63b1741041b423ed9087e132d, type: 3}

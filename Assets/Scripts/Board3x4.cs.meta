@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 51ecadf31468fba4aa4a07402204bb78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _tile: {fileID: 1684637033959306, guid: 65b330a5ca5b1c047a7e7d2d3505062c, type: 2}
+  - _kodama: {fileID: 1810920779554120, guid: 62343928e0ac3954a9c0dce5368f8340, type: 2}
+  - _koropokkuru: {fileID: 1208565298411286, guid: cbe3ec17ecde8b345b6860b7b1b99ff9,
+      type: 2}
+  - _kitsune: {fileID: 1138182701641396, guid: c800ca61f872d624496f9956b2f3bb2c, type: 2}
+  - _tanuki: {fileID: 1317540925043886, guid: 3e6d91e3d7ef41c44b72a1fed07f93d7, type: 2}
+  - _grassTileSprite: {fileID: 21300000, guid: 980cd0e63b1741041b423ed9087e132d, type: 3}
+  - _ligthGrassTileSprite: {fileID: 21300002, guid: 980cd0e63b1741041b423ed9087e132d,
+      type: 3}
+  - _rockTileSprite: {fileID: 21300004, guid: 980cd0e63b1741041b423ed9087e132d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
